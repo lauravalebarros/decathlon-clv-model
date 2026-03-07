@@ -102,3 +102,13 @@ The final output is a customer-level projected CLV estimate that can support:
 - retention and acquisition decision-making,
 - value-based segmentation,
 - and identification of the behaviors most strongly associated with long-term value.
+
+## Team
+
+This project was developed as part of the Decathlon capstone by:
+
+- Laura Barros
+- Oscar Ricardo Moreno
+- Regina Ortega
+- Jim Vincent
+- Teresita Alessandri
